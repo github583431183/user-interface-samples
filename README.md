@@ -1,3 +1,9 @@
+!!!!!!!!!!!!!!!利用多窗口和活动嵌入
+https://medium.com/androiddevelopers/leverage-multi-window-and-activity-embedding-4951f44a8992
+
+
+
+
 > **Warning**
 > We are in the process of migrating these samples into the new [platform-samples repository](https://github.com/android/platform-samples).
 > 
